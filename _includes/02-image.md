@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+<D:\Users\zwsong.CN1\Downloads\repository-open-graph-template.png>
