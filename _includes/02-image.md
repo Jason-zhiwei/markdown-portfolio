@@ -1,1 +1,1 @@
-<D:\Users\zwsong.CN1\Downloads\repository-open-graph-template.png>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
